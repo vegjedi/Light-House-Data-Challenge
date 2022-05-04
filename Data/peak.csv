@@ -1,0 +1,469 @@
+﻿peakid,pkname,location,heightm,heightf,region,restrict,pstatus,pyear,pexpid
+AMAD,Ama Dablam,Khumbu Himal,6814,22356,2,None,2,1961,AMAD61101
+AMPG,Amphu Gyabjen,Khumbu Himal (N of Ama Dablam),5630,18471,2,Opened in 2002,2,1953,AMPG53101
+ANN1,Annapurna I,Annapurna Himal,8091,26545,5,None,2,1950,ANN150101
+ANN2,Annapurna II,Annapurna Himal,7937,26040,5,None,2,1960,ANN260101
+ANN3,Annapurna III,Annapurna Himal,7555,24787,5,None,2,1961,ANN361101
+ANN4,Annapurna IV,Annapurna Himal,7525,24688,5,None,2,1955,ANN455101
+ANNE,Annapurna I East,Annapurna Himal (ENE of Annapurna I),8026,26332,5,Requires permit for Annapurna I,2,1974,ANNE74101
+ANNM,Annapurna I Middle,Annapurna Himal (ENE of Annapurna I),8051,26414,5,Requires permit for Annapurna I,2,1980,ANNM80301
+ANNS,Annapurna South,Annapurna Himal (S of Annapurna I and Fang),7219,23684,5,None,2,1964,ANNS64301
+APIM,Api Main,Api Himal,7132,23399,7,None,2,1960,APIM60101
+APIW,Api West,Api Himal (W of Api),7076,23215,7,None,1,nan,None
+BARU,Baruntse,Khumbu Himal (W of Makalu),7152,23465,2,None,2,1954,BARU54101
+BAUD,Baudha,Mansiri Himal (SE of Manaslu and Himalchuli),6672,21890,4,None,2,1970,BAUD70101
+BHEM,Bhemdang Ri,Jugal Himal (SE of Shalbachum),6150,20177,3,None,2,1964,BHEM64101
+BHRI,Bhrikuti,Damodar Himal (NE of Thorong La near Tibetan border),6476,21247,5,Opened in 2014,2,1982,BHRI82101
+BOBA,Bobaye,Api Himal (S of Nampa),6808,22336,7,None,2,1996,BOBA96301
+CHAM,Chamlang,"Khumbu Himal (in Hongku Valley, SW of Makalu)",7321,24019,2,None,2,1962,CHAM62101
+CHAN,Changla,Changla Himal (N of Jumla on Tibetan border),6563,21532,7,None,2,2010,CHAN10301
+CHMN,Chamar North,Shringi Himal,7165,23507,4,Opened in 2014,2,1953,CHMN53101
+CHEO,Cheo Himal,Peri Himal (ESE of Himlung Himal on Tibetan border),6820,22375,5,None,2,1991,CHEO91301
+CHOY,Cho Oyu,Khumbu Himal (NW of Everest on Tibetan border),8188,26864,2,None,2,1954,CHOY54301
+CHOB,Chobuje,Rolwaling Himal (NE of Tsho Rolpa),6686,21936,2,None,2,1972,CHOB72101
+CHOL,Cholatse,Khumbu Himal (N of Tawoche),6423,21073,2,Converted to trekking peak in 2002,2,1982,CHOL82101
+CHOP,Cho Polu,"Khumbu Himal (S of Shartse, N of Baruntse)",6700,21982,2,None,2,1984,CHOP84301
+CHUL,Chulu Central,Damodar Himal (E of Thorong La),6584,21601,5,None,2,1955,CHUL55201
+CHUG,Chukyima Go,Rolwaling Himal (WSW of Tesi Laptsa),6258,20531,2,Opened in 2014,2,2014,CHUG14301
+CHUR,Churen Himal Central,Dhaulagiri Himal (NW of Dhaulagiri VI),7385,24229,6,One permit for Churen Himal's three summits,2,1970,CHUR70301
+CHUW,Chulu West,Damodar Himal (E of Thorong La),6419,21060,5,None,2,1952,CHUW52301
+TAPL,Taple Shikhar,Kangchenjunga Himal (W of Nepal Peak),6447,21152,1,Opened in 2002,2,1998,TAPL98301
+CTSE,Changtse,North of Everest (in Tibet),7583,24879,2,Peak entirely within China,2,1982,CTSE82301
+DHA1,Dhaulagiri I,Dhaulagiri Himal,8167,26795,6,None,2,1960,DHA160101
+DHA2,Dhaulagiri II,Dhaulagiri Himal (NW of Dhaulagiri I),7751,25430,6,None,2,1971,DHA271101
+DHA3,Dhaulagiri III,Dhaulagiri Himal (SW of Dhaulagiri II),7715,25312,6,None,2,1973,DHA373301
+DHA4,Dhaulagiri IV,Dhaulagiri Himal (W of Dhaulagiri V),7661,25135,6,None,2,1975,DHA475101
+DHA5,Dhaulagiri V,Dhaulagiri Himal (SW of Dhaulagiri III),7618,24993,6,None,2,1975,DHA575101
+DHA6,Dhaulagiri VI,Dhaulagiri Himal (WSW of Dhaulagiri IV),7268,23845,6,None,2,1970,DHA670101
+DHAM,Dhampus,Mukut Himal (NE of Dhaulagiri I and Tukuche),6012,19724,6,None,2,1960,DHAM60101
+DOGA,Dogari,Dhaulagiri Himal (WNW of Putha Hiunchuli),6536,21444,6,Opened in 2003,1,nan,None
+PEMK,Pemthang Karpo Ri,Jugal Himal (NNW of Dorje Lhakpa on Tibetan border),6865,22523,3,Opened in 2014,2,1955,PEMK55101
+DORJ,Dorje Lhakpa,Jugal Himal (near Tibetan border),6966,22854,3,None,2,1981,DORJ81301
+DRAN,Drangnag Ri,Rolwaling Himal (N of Tesi Laptsa near Tibetan border),6757,22169,2,None,2,1995,DRAN95101
+DROM,Drohmo,Jongsang Himal (NNW of Kangchenjunga),6881,22575,1,Opened in 1997,1,nan,None
+EVER,Everest,Khumbu Himal,8850,29035,2,None,2,1953,EVER53101
+FANG,Fang,Annapurna Himal (SW of Annapurna I),7647,25089,5,None,2,1980,FANG80101
+FIRN,Firnkopf,Saipal Himal (W of Saipal),6730,22080,7,None,1,nan,None
+FIRW,Firnkopf West,Saipal Himal (WSW of Firnkopf),6745,22129,7,None,2,1987,FIRW87301
+GAMA,Gama Peak,"Dhaulagiri Himal (N of Dhaulagiri VI, S of Junction Peak)",7187,23579,6,None,2,1970,GAMA70301
+GAN1,Ganesh I,Ganesh Himal (on Tibetan border),7422,24350,4,None,2,1955,GAN155301
+GAN3,Ganesh III,Ganesh Himal (S of Ganesh I on Tibetan border),7043,23107,4,None,2,1979,GAN379301
+GAN2,Ganesh II,Ganesh Himal (WSW of Ganesh I),7118,23353,4,None,2,1981,GAN281302
+GAN4,Ganesh IV,Ganesh Himal (SW of Ganesh I),7104,23307,4,None,2,1978,GAN478301
+GAN5,Ganesh V,Ganesh Himal (SE of Ganesh I on Tibetan border),6770,22211,4,None,2,1980,GAN580101
+GAN6,Ganesh VI,Ganesh Himal (subpeak SE of Ganesh II),6908,22664,4,Opened in 2002,2,2000,GAN600101
+GANC,Ganchenpo,Jugal Himal (W of Dorje Lhakpa and Urkinmang),6378,20925,3,None,2,1971,GANC71302
+GAND,Gandharva Chuli,Annapurna Himal (SSW of Annapurna III near Machhapuchhare),6248,20499,5,None,2,2013,GAND13101
+GANG,Gangapurna,Annapurna Himal (NW of Annapurna III),7455,24459,5,None,2,1965,GANG65101
+GAUR,Gaurishankar,Rolwaling Himal (on Tibetan border),7135,23409,2,None,2,1979,GAUR79101
+GHUN,Ghustang North,Dhaulagiri Himal (WNW of Gurja Himal),6529,21421,6,Opened in 2003,2,1962,GHUN62301
+GHUS,Ghustang South,Dhaulagiri Himal (WSW of Gurja Himal),6465,21211,6,Opened in 2003,2,2019,GHUS18301
+MATA,Matathumba,Jagdula Lekh (S of Kanjiroba Himal),5767,18921,7,None,2,1961,MATA61101
+GHYM,Ghyuthumba Main,Jagdula Lekh (S of Kanjiroba Himal),5806,19049,7,None,2,1953,GHYM53301
+GIME,Gimmigela Chuli East,Kangchenjunga Himal (N of Kangchenjunga on Indian border),7007,22989,1,Requires permit for Gimmigela Chuli,2,1993,GIME93301
+GIMM,Gimmigela Chuli,Kangchenjunga Himal (N of Kangchenjunga on Indian border),7350,24114,1,None,2,1994,GIMM94301
+GLAC,Glacier Dome,Annapurna Himal (E of Annapurna I),7168,23517,5,None,2,1964,GLAC64301
+GURJ,Gurja Himal,Dhaulagiri Himal (S of Dhaulagiri VI),7193,23599,6,None,2,1969,GURJ69301
+GURK,Gurkarpo Ri,Jugal Himal (N of Dorje Lhakpa on Tibetan border),6889,22602,3,None,2,2007,GURK07301
+GYAC,Gyachung Kang,Khumbu Himal (E of Cho Oyu on Tibetan border),7861,25791,2,None,2,1964,GYAC64101
+GYAJ,Gyajikang,Peri Himal (SW of Himlung Himal),7074,23209,5,None,2,1994,GYAJ94301
+LEOE,Leonpo Gang East,Jugal Himal (NE of Leonpo Gang on Tibetan border),6733,22090,3,Opened in 2014,2,1955,LEOE55101
+HIME,Himalchuli East,Mansiri Himal (SE of Manaslu),7893,25896,4,None,2,1960,HIME60101
+HIML,Himlung Himal,Peri Himal (NW of Manaslu near Tibetan border),7126,23379,5,None,2,1992,HIML92301
+HIMN,Himalchuli North,"Mansiri Himal (SE of Manaslu, WNW of Himalchuli Main)",7331,24052,4,None,2,1985,HIMN85302
+RANI,Rani Peak,"Mansiri Himal (SE of Manaslu, NE of Himalchuli Main)",6693,21959,4,None,2,1970,RANI70101
+HIMW,Himalchuli West,"Mansiri Himal (SE of Manaslu, W of Himalchuli Main)",7540,24738,4,None,2,1978,HIMW78101
+HIUP,Hiunchuli,Annapurna Himal (E of Annapurna South),6434,21109,5,None,2,1971,HIUP71301
+HNKU,Hongku Chuli,"Khumbu Himal (in Hongku Valley, NE of Chamlang)",6833,22418,2,Opened in 2013?,1,nan,None
+HONG,Hongde,Mukut Himal (N of Sita Chuchura in Hidden Valley),6556,21509,6,None,2,1962,HONG62101
+IMJA,Imjatse,Khumbu Himal (S of Lhotse),6165,20226,2,None,2,1956,IMJA56101
+JAGD,Jagdula,Jagdula Lekh (S of Kande Hiunchuli),5761,18901,7,None,2,2013,JAGD13101
+JANU,Jannu,Kangchenjunga Himal (W of Kangchenjunga),7711,25299,1,None,2,1962,JANU62101
+JETH,Jethi Bahurani,Api Himal (S of Nampa and Bobaye),6850,22474,7,None,2,1978,JETH78101
+JONG,Jongsang,Jongsang Himal (on Indian-Tibetan border),7462,24482,1,None,2,1930,JONG30101
+JUNC,Junction Peak,"Dhaulagiri Himal (on ridge joining Dhaulagiri VI, IV and Churen)",7133,23402,6,None,1,nan,None
+KABD,Kabru Dome,Simhalila Himal (SE of Kabru in India),6600,21654,1,None,2,1982,KABD82301
+KABN,Kabru North,Simhalila Himal (S of Kabru Main on Indian border),7338,24075,1,None,2,1935,KABN35301
+KAG1,Kagmara I,Kagmara Lekh (S of Kanjiroba Himal),5978,19613,7,None,2,1962,KAG162101
+KAN1,Kande Hiunchuli North I,Kanjiroba Himal (NW of Kanjiroba),6521,21394,7,None,1,nan,None
+KAN2,Kande Hiunchuli North II,Kanjiroba Himal (NW of Kanjiroba),6471,21230,7,None,2,1980,KAN280101
+KANB,Kangbachen,Kangchenjunga Himal (W Spur of Kangchenjunga),7902,25925,1,None,2,1974,KANB74101
+KANC,Kangchenjunga Central,Kangchenjunga Himal (between Main and South summits),8473,27799,1,None,2,1978,KANC78102
+KAND,Kande Hiunchuli,Kanjiroba Himal (WNW of Kanjiroba),6627,21742,7,None,2,1972,KAND72301
+KANG,Kangchenjunga,Kangchenjunga Himal,8586,28169,1,None,2,1955,KANG55101
+KANS,Kangchenjunga South,Kangchenjunga Himal,8476,27808,1,None,2,1978,KANS78101
+KARY,Karyolung,Rolwaling Himal (SE of Numbur),6530,21424,2,None,2,1982,KARY82301
+KCHN,Kangchung Nup,Khumbu Himal (NE of Gokyo Lake),6043,19826,2,None,2,1953,KCHN53101
+NAYA,Naya Kanga,Jugal Himal (W of Ganchempo by Kangja La),5863,19236,3,None,2,nan,None
+KGUR,Kang Guru,Peri Himal (SW of Himlung Himal),6981,22904,5,None,2,1955,KGUR55201
+KHAT,Khatang,Rolwaling Himal (E of Numbur),6790,22277,2,None,2,1982,KHAT82301
+KHON,Khongma Tse,Khumbu Himal (SW of Nuptse),5798,19022,2,None,2,nan,None
+KJER,Kanjeralwa,Kanjiroba Himal (NW of Phoksumdo Tal),6612,21693,7,None,2,1973,KJER73101
+KJRN,Kanjiroba North,Kanjiroba Himal,6858,22500,7,Opened in 2014,1,nan,None
+KJRS,Kanjiroba South,Kanjiroba Himal,6883,22582,7,One permit for Kanjiroba's north and south summits,2,1970,KJRS70301
+KOTA,Kotang,Simhalila Himal (SSW of Rothang on Indian border),6148,20171,1,None,2,1982,KOTA82301
+KTEG,Kangtega,Khumbu Himal (SW of Ama Dablam),6783,22254,2,None,2,1963,KTEG63101
+KTSU,Kangtsune,"Kagmara Lekh (SE of Kanjiroba, W of Kanjeralwa)",6444,21142,7,None,1,nan,None
+KUSU,Kusum Kanguru,Khumbu Himal (NE of Lukla village),6370,20899,2,None,2,1981,KUSU81302
+KWAN,Kwangde,Rolwaling Himal (W of Namche Bazar),6186,20295,2,None,2,1978,KWAN78301
+LAMJ,Lamjung Himal,Annapurna Himal (SE of Annapurna II),6983,22910,5,None,2,1974,LAMJ74101
+LANG,Langtang Lirung,Langtang Himal,7227,23711,3,None,2,1978,LANG78301
+LANR,Langtang Ri,Langtang Himal (NE of Langtang Lirung on Tibetan border),7205,23638,3,None,2,1981,LANR81301
+LEON,Leonpo Gang,Jugal Himal (NNE of Dorje Lhakpa on Tibetan border),6979,22897,3,None,2,1962,LEON62101
+LHAS,Lha Shamma,"Kagmara Lekh (S of Kanjiroba, NNW of Kagmara I)",6412,21037,7,Opened in 2014,2,1962,LHAS62101
+LHOT,Lhotse,Khumbu Himal,8516,27940,2,None,2,1956,LHOT56101
+MUKT,Mukut Himal,"Mukut Himal (N of Sita Chuchura, S of Hongde)",6087,19970,6,Opened in 2014,2,1967,MUKT67301
+LNPO,Langpo,Jongsang Himal (SE of Jongsang on Indian border),6965,22851,1,None,2,1909,LNPO09301
+LOBE,Lobuje East,Khumbu Himal (SW of Pumori),6090,19980,2,None,2,1984,LOBE84101
+LOBW,Lobuje West,Khumbu Himal (SW of Pumori),6135,20128,2,Converted to trekking peak in 2002,2,1984,LOBW84301
+LSHR,Lhotse Shar,Khumbu Himal (ESE of Lhotse and Lhotse Middle),8382,27500,2,None,2,1970,LSHR70101
+LSIS,Langshisa Ri,Jugal Himal (NW of Dorje Lhakpa),6412,21037,3,Converted to trekking peak in 2002,2,1982,LSIS82101
+MACH,Machhapuchhare,Annapurna Himal (SE of Annapurna III),6993,22943,5,Closed,1,nan,None
+BTAK,Bhairab Takura,Jugal Himal (ENE of Dorje Lhakpa on Tibetan border),6799,22306,3,None,2,1960,BTAK60101
+MAK2,Makalu II,Makalu Himal (NNW of Makalu on Tibetan border),7678,25190,2,None,2,1954,MAK254301
+MAKA,Makalu,Makalu Himal,8485,27838,2,None,2,1955,MAKA55101
+MANA,Manaslu,Manaslu Himal,8163,26781,4,None,2,1956,MANA56101
+MANN,Manaslu North,Manaslu Himal (N of Manaslu),6994,22946,4,None,2,1964,MANN64301
+MANP,Manapathi,Dhaulagiri Himal (SSW of Dhaulagiri I),6380,20932,6,None,2,1956,MANP56101
+MARD,Mardi Himal,Annapurna Himal (SW of Machhapuchhare),5553,18219,5,None,2,1962,MARD62101
+MERA,Mera Peak,Khumbu Himal (S of Ama Dablam),6470,21227,2,None,2,1953,MERA53101
+MING,Mingbo Ri,Khumbu Himal (S of Ama Dablam and Mingbo La),6207,20364,2,None,1,nan,None
+NALA,Nalakankar North,Nalakankar Himal (on W Nepal/Tibetan border),6062,19888,7,None,2,2000,NALA00201
+NAMP,Nampa,Api Himal (E of Api),6729,22077,7,None,2,1972,NAMP72101
+NCHU,Nupchu,Ohmi Kangri Himal (NW of Kangchenjunga),6172,20249,1,None,2,1962,SPH462101
+NEMJ,Nemjung,Peri Himal (S of Himlung Himal and Himjung),7140,23425,5,None,2,1983,NEMJ83301
+NEPA,Nepal Peak,Jongsang Himal (N of Kangchenjunga on Indian border),7177,23547,1,None,2,1930,NEPA30101
+NGO2,Ngojumba Kang II,Khumbu Himal (NE of Cho Oyu on Tibetan border),7743,25404,2,None,2,1965,NGO265101
+NGOJ,Ngojumba Kang I,Khumbu Himal (NE of Cho Oyu on Tibetan border),7916,25971,2,Opened in 2014 as Tenzing Peak,2,1982,NGOJ82302
+NILC,Nilgiri Central,Annapurna-Nilgiri Himal (NW of Annapurna I),6940,22769,5,None,2,1979,NILC79101
+NILN,Nilgiri North,Annapurna-Nilgiri Himal (NW of Annapurna I),7061,23166,5,None,2,1962,NILN62301
+NILS,Nilgiri South,Annapurna-Nilgiri Himal (NW of Annapurna I),6839,22438,5,None,2,1978,NILS78301
+NUMB,Numbur,Rolwaling Himal (SW of Namche Bazar),6958,22828,2,None,2,1963,NUMB63101
+NUPT,Nuptse,Khumbu Himal (SW of Everest),7864,25801,2,None,2,1961,NUPT61101
+OHMI,Ohmi Kangri,Ohmi Kangri Himal (NW of Kangchenjunga on Tibetan border),6839,22438,1,None,2,1985,OHMI85101
+OMBK,Ombak Himal,Ohmi Kangri Himal (NE of Ombak La in Tibet),6300,20669,1,None,1,nan,None
+PALD,Paldor,Ganesh Himal (SE of Ganesh V),5903,19367,4,None,2,1949,PALD49201
+PANG,Pangbuk Ri,Rolwaling Himal (N of Menlung La on Tibetan border),6625,21736,2,Opened in 2002,2,2011,PANG11301
+PARC,Parchamo,Rolwaling Himal (S of Tesi Laptsa),6279,20600,2,None,2,1955,PARC55101
+PATR,Patrasi Himal,Kanjiroba Himal (NE of Kande Huinchuli),6450,21161,7,None,1,nan,None
+PETH,Pethangtse,Khumbu Himal (NW of Makalu on Tibetan border),6739,22110,2,Opened in 2002,2,1954,PETH54101
+PHUR,Phurbi Chhyachu,Jugal Himal (SE of Dorje Lhakpa on Tibetan border),6637,21775,3,None,2,1982,PHUR82101
+PIMU,Pimu,Rolwaling Himal (N of Tesi Laptsa),6344,20814,2,None,2,1955,PIMU55101
+PISA,Pisang,Damodar Himal (N of Marysangdi Valley),6091,19984,5,None,2,1955,PISA55201
+PK29,Peak 29,Manaslu Himal (S of Manaslu),7871,25823,4,None,2,1979,PK2979101
+POIN,Pointed Peak,"Khumbu Himal (N of Cholatse, S of Tshola La)",5850,19193,2,None,2,1953,POIN53101
+POKA,Pokalde,Khumbu Himal (N of Ama Dablam),5780,18963,2,None,2,1953,POKA53101
+OMBG,Ombigaichen,Khumbu Himal (SE of Ama Dablam),6340,20801,2,Opened in 2002 as trekking peak,2,1960,OMBG60301
+PUMO,Pumori,Khumbu Himal (WNW of Everest on Tibetan border),7138,23419,2,None,2,1962,PUMO62101
+PUTH,Putha Hiunchuli,Dhaulagiri Himal (W of Churen Himal),7246,23773,6,None,2,1954,PUTH54301
+PYRM,Pyramid Peak,Jongsang Himal (N of Kangchenjunga on Indian border),7140,23425,1,None,2,1993,PYRM93101
+RAKS,Raksha Urai,Raksha Urai Himal (ESE of Nampa),6609,21683,7,None,2,2003,RAKS03301
+RAMD,Ramdung,Rolwaling Himal (W of Tesi Laptsa),5900,19357,2,None,2,1952,RAMD52301
+RATH,Rathong,Simhalila Himal (SW of Kabru on Indian border),6682,21923,1,None,2,1964,RATH64301
+ROCN,Roc Noir,Annapurna Himal (ENE of Annapurna I),7485,24557,5,None,2,1969,ROCN69101
+ROKA,Rokapi,"Api Himal (S of Nampa, Bobaye and Jethi Bahurani)",6468,21220,7,Opened in 2002,2,1977,ROKA77301
+SAIE,Saipal East Humla,Saipal Himal (NE of Saipal),6925,22720,7,None,2,1990,SAIP90301
+SAIP,Saipal,Saipal Himal,7030,23064,7,None,2,1963,SAIP63301
+SHAR,Shartse,Khumbu Himal (E of Lhotse Shar on Tibetan border),7591,24905,2,None,1,nan,None
+SHA2,Shartse II,Khumbu Himal (E of Lhotse Shar on Tibetan border),7457,24465,2,None,2,1974,SHA274101
+SHEY,Shey Shikhar,Kanjiroba Himal (SE of Kanjiroba and Tripura Hiunchuli),6139,20141,7,None,2,2007,SHEY07201
+SING,Singu Chuli,Annapurna Himal (Annapurna Sanctuary),6501,21329,5,None,2,1957,SING57101
+SISN,Sisne Himal,Sisne Himal (SW of Juphal in Rukum),5911,19393,7,None,2,2013,SISN13101
+SITA,Sita Chuchura,Mukut Himal (ENE of Dhaulagiri II near French Pass),6611,21690,6,None,2,1970,SITA70301
+SNOW,Snow Peak,Dhaulagiri Himal (E of Dhaulagiri II),6530,21424,6,None,1,nan,None
+SPHN,Sphinx,Jongsang Himal (NE of Pathibhara on Indian border),6825,22392,1,Opened in 2014,2,1936,SPHN36101
+SPH1,Sharphu I,Ohmi Kangri Himal (WNW of Kangchenjunga),6433,21106,1,Opened in 2002,2,1963,SPH163301
+SURM,Surma-Sarovar North,Api Himal (SSE of Jethi Bahurani),6564,21535,7,None,1,nan,None
+TAWO,Tawoche,Khumbu Himal (NW of Ama Dablam),6495,21309,2,None,2,1974,TAWO74101
+KIRA,Kirat Chuli,Jongsang Himal (N of Kangchenjunga on Indian border),7362,24154,1,None,2,1939,KIRA39101
+THAM,Thamserku,Khumbu Himal (SW of Ama Dablam),6618,21713,2,None,2,1964,THAM64301
+THAR,Tharpu Chuli,Annapurna Himal (Annapurna Sanctuary),5695,18684,5,None,2,1964,THAR64301
+TILI,Tilicho,Annapurna-Nilgiri Himal (N of Annapurna I),7134,23406,5,None,2,1978,TILI78301
+TLNG,Talung,Simhalila Himal (S of Kangchenjunga on Indian border),7349,24111,1,Opened in 2002,2,1964,TLNG64101
+TONG,Tongu,Mukut Himal (N of Hongde in Hidden Valley),6187,20299,6,None,2,1959,TONG59301
+TRIP,Tripura Hiunchuli,Kanjiroba Himal (SE of Kanjiroba),6553,21499,7,None,2,1986,TRIP86301
+TSOK,Tso Karpo Kang,Kanjiroba Himal (E of Kanjiroba),6556,21509,7,Opened in 2002,2,1971,TSOK71301
+TUKU,Tukuche,Dhaulagiri Himal (NE of Dhaulagiri I),6920,22703,6,None,2,1970,TUKU70101
+URKM,Urkinmang,Jugal Himal (W of Dorje Lhakpa),6143,20154,3,None,2,1964,URKM64101
+ANID,Anidesh Chuli,Kangchenjunga Himal (W of Kangbachen),6808,22336,1,Opened in 2002,1,nan,None
+TSUR,Tsaurabong Peak,Dhaulagiri Himal (SSE of Dhaulagiri V),6395,20981,6,None,2,1974,TSUR74101
+YALU,Yalung Kang,Kangchenjunga Himal (W summit of Kangchenjunga),8505,27904,1,None,2,1973,YALU73101
+PASA,Pasang Lhamu Chuli,Khumbu Himal (W of Cho Oyu & Cho Aui on Tibetan border),7350,24114,2,None,2,1986,PASA86301
+RATC,Ratna Chuli,Peri Himal (NW of Himlung on Tibetan border),7035,23081,5,Opened in 2002,2,1996,RATC96301
+KANT,Kanti Himal,Kanti Himal (NNW of Kanjiroba on Tibetan border),6850,22474,7,Opened in 2002,2,2002,KANT02301
+RAMT,Ramtang,Kangchenjunga Himal (N of Kangbachen),6601,21657,1,Opened in 1997,2,1930,RAMT30101
+LING,Lingtren,Khumbu Himal (ENE of Pumori on Tibetan border),6713,22024,2,Opened in 2002,2,1935,LING35201
+TENG,Tengkoma,Jongsang Himal (NW of Kangchenjunga),6215,20390,1,Opened in 1997,2,1949,TENG49101
+RAMC,Ramtang Chang,Kangchenjunga Himal (N of Ramtang),6802,22316,1,Opened in 2002,2,1974,RAMC74301
+CHRE,Churen Himal East,Dhaulagiri Himal (NW of Dhaulagiri VI),7371,24183,6,One permit for Churen Himal's three summits,2,1970,CHRE70101
+CHRW,Churen Himal West,Dhaulagiri Himal (NW of Dhaulagiri VI),7371,24183,6,One permit for Churen Himal's three summits,2,1970,CHRW70301
+CHRI,Chhukung Ri,Khumbu Himal (S of Lhotse),5550,18209,2,Opened in 1997; converted to trekking peak in 2002,2,1965,CHRI65101
+KTOK,Kangtokal,Dhaulagiri Himal (on ridge N of Putha Hiunchuli),6294,20650,6,Opened in 1997,2,1962,KTOK62101
+SRKU,Serku Dolma,Kanjiroba Himal (S of Tso Karpo Kang),6227,20430,7,None,2,1973,SRKU73301
+NALS,Nalakankar South,Nalakankar Himal (on W Nepal/Tibetan border),6024,19764,7,None,2,2000,NALS00201
+CHWT,Changwathang,Chandi Himal (S of Tibetan border),6130,20112,7,Opened in 2002,2,2000,CHWT00201
+TAKP,Takphu Himal,Nalakankar Himal (on W Nepal/Tibetan border),6395,20981,7,Opened in 2003,2,2018,TAKP18301
+MALA,Malanphulan,"Khumbu Himal (S of Ama Dablam, NW of Kangtega)",6573,21565,2,Opened in 2014,2,2000,MALA00101
+LHOM,Lhotse Middle,Khumbu Himal (E of Lhotse),8410,27592,2,Opened in 2001,2,2001,LHOM01101
+SIMN,Simnang Himal,Manaslu Himal (SE of Manaslu),6251,20509,4,Opened in 2001,2,2001,SIMN01101
+HCHI,Hungchhi,Khumbu Himal (S of Gyachung Kang on Tibetan border),7029,23061,2,Opened in 2001,2,2003,HCHI03102
+LAMP,Lampo,Ganesh Himal (N of Ganesh I on Tibetan border),6648,21811,4,None,1,nan,None
+CHUK,Chhukung Tse,Khumbu Himal (S of Lhotse),5833,19137,2,None,2,1953,CHUK53101
+DZAN,Dzanye,Janak Himal (WNW of Lashar I on Tibetan border),6581,21591,1,None,2,1949,DZAN49101
+GAUG,Gaugiri,Damodar Himal (N of Bhrikuti on Tibetan border),6110,20046,5,Opened in 2002,2,2002,GAUG02101
+TKPO,Tengkangpoche,Rolwaling Himal (W of Kwangde),6482,21266,2,Opened in 2001,2,1984,TKPO84301
+ARNK,Arniko Chuli,Mukut Himal (W Mustang near Tibetan border),6034,19797,6,Opened in 2002,2,2002,ARNK02201
+SARI,Saribung,Damodar Himal (W of Bhrikuti),6328,20761,5,Opened in 2002,2,2003,SARI03301
+GHEN,Ghenge Liru,Langtang Himal (WSW of Langtang Lirung),6596,21640,3,Opened in 2002,2,1963,GHEN63101
+NAUL,Naulekh,Khumbu Himal (S of Mera Peak),6340,20801,2,Opened in 2002,2,1954,NAUL54101
+CHEK,Chekigo,Rolwaling Himal (ENE of Beding village on Tibetan border),6121,20082,2,Opened in 2002 as trekking peak,2,2005,CHEK05101
+KTUN,Khatung Khang,Annapurna-Nilgiri Himal (SW of Thorong La),6484,21273,5,Opened in 2002,2,1956,KTUN56101
+CHAG,Chago,Makalu Himal (NW of Makalu II on Tibetan border),6893,22615,2,Opened in 2002,2,1954,CHAG54101
+NUMR,Numri,"Khumbu Himal (S of Cho Polu, N of Baruntse)",6635,21768,2,Opened in 2002,2,2002,NUMR02301
+PK41,Peak 41,Khumbu Himal (ESE of Ama Dablam),6648,21811,2,Opened in 2002,2,2002,PK4102301
+KYAZ,Kyazo Ri,Khumbu Himal (SW of Gokyo Lake),6151,20180,2,Opened in 2002 as trekking peak,2,2002,KYAZ02301
+PAND,Pandra,Ohmi Kangri Himal (NW of Lhonak),6670,21883,1,Opened in 2002,2,2002,PAND02301
+DANG,Danga,"Ohmi Kangri Himal (WNW of Lhonak, E of Nupchu)",6220,20407,1,Opened in 2002,2,2002,DANG02301
+POKR,Pokharkang,Damodar Himal (N of Pisang Peak),6372,20906,5,Opened in 2002,2,2002,POKR02301
+NAG1,Nangpai Gosum I,Khumbu Himal (WSW of Cho Oyu on Tibetan border),7321,24019,2,Opened in 2002,2,2017,NAG117301
+KGRI,Khangri Shar,Khumbu Himal (W of Pumori),6792,22283,2,Opened in 2002,1,nan,None
+KGRW,Khangri West,Khumbu Himal (W of Pumori),6658,21844,2,Opened in 2002,1,nan,None
+PURB,Purbung Himal,Damodar Himal (N of Chulu West),6500,21325,5,Opened in 2002,1,nan,None
+TASH,Tashi Kang,Mukut Himal (N of Dhampus Peak),6386,20951,6,Opened in 2002,2,2002,TASH02201
+TENR,Tengi Ragi Tau,Rolwaling Himal (N of Tesi Laptsa),6938,22762,2,Opened in 2002,2,2002,TENR02401
+KYAS,Kyashar,Khumbu Himal (S of Kantega),6770,22211,2,Opened in 2002,2,2003,KYAS03301
+NREK,Nirekha,Khumbu Himal (NW of Lobuje Peak),6159,20207,2,Opened in 2002 as trekking peak,2,nan,None
+NORB,Norbu Kang,Kanjiroba Himal (SE of Phoksumdo Tal),6085,19964,7,Opened in 2002,2,2003,NORB03201
+LNKE,Lunchhung Kamo East,Kanti Himal (SE of Danfe Sail on Tibetan border),6024,19764,7,None,2,1999,LNKE99201
+LIK1,Linkhu Chuli Shar,Rolwaling Himal (S of Parchamo),6719,22044,2,Opened in 2003,2,2013,LIK113301
+LIK2,Linkhu Chuli Nup,"Rolwaling Himal (SSW of Parchamo, W of Likhu Chuli Shar)",6659,21847,2,Opened in 2003,2,1960,LIK260301
+PANT,Panalotapa,Rolwaling Himal (W of Tengkangpoche),6687,21939,2,Opened in 2003,2,1955,PANT55101
+SHAL,Shalbachum,Langtang Himal (E of Langtang Lirung on Tibetan border),6707,22005,3,Opened in 2003,2,1959,SHAL59301
+KHUM,Khumbutse,Khumbu Himal (NW of Lho La on Tibetan border),6639,21781,2,None,1,nan,None
+BOKT,Boktoh,Kangchenjunga Himal (SE of Jannu),6114,20059,1,Opened in 2002,2,1991,BOKT91101
+MOJC,Mojca,Kangchenjunga Himal (W of Ramtang Chang),6024,19764,1,Opened in 2002,2,1974,MOJC74301
+PLNG,Palung,North of Cho Oyu (in Tibet),7012,23005,2,Peak entirely within China,2,1952,PLNG52101
+TUTS,Tutse,Makalu Himal (SE of Makalu),6758,22172,2,Opened in 2003,1,nan,None
+NUPE,Nuptse East I,Khumbu Himal (E of Nuptse main summit),7795,25574,2,Requires permit for Nuptse,2,2003,NUPE03301
+AMOT,Amotsang,Damodar Himal (NW of Pokharhan),6393,20974,5,Opened in 2002,2,2019,None
+YANS,Yansa Tsenji,Langtang Himal (SW of Shalbachum on Tibetan border),6567,21545,3,Opened in 2003,1,nan,None
+HIMJ,Himjung,Peri Himal (S of Himlung Himal),7092,23268,5,Opened in 2002,2,2012,HIMJ12301
+AMPH,Amphu I,"Khumbu Himal (E of Amphu Laptsa, W of Baruntse)",6740,22113,2,Opened in 2002,2,2013,AMPH13301
+CHAB,Chabuk,Ohmi Kangri Himal (E of Ohmi Kangri on Tibetan border),6792,22283,1,Opened in 2002,1,nan,None
+CHAK,Chako,Damodar Himal (ESE of Bhrikuti Shail),6704,21995,5,Opened in 2003,2,2007,CHAK07201
+DOMK,Dome Kang,Jongsang Himal (ESE of Jongsong on Indian border),7264,23832,1,Opened in 2002,2,2009,DOMK09101
+GHAN,Ghhanyala Hies,Janak Himal (NW of Janak Chuli on Tibetan border),6744,22126,1,Opened in 2002,1,nan,None
+HUNK,Hunku,Khumbu Himal (NNE of Peak 41),6119,20075,2,"Opened in 2002, delisted in 2013?",2,2012,HUNK12302
+JANK,Janak Chuli,Janak Himal (WNW of Jongsang on Tibetan border),7041,23100,1,Opened in 2002,2,2006,JANK06101
+KABS,Kabru South,Simhalila Himal (S of Kabru North on Indian border),7318,24009,1,Opened in 2003,2,1994,KABS94101
+KABR,Kabru Main,Simhalila Himal (S of Talung on Indian border),7412,24318,1,Opened in 2014,2,1994,KABR94101
+LASH,Lashar I,Janak Himal (NW of Lashar II on Tibetan border),6842,22448,1,Opened in 2002,2,2005,LASH05301
+LAS2,Lashar II,Janak Himal (SW of Ghhanyala Hies on Tibetan border),6803,22320,1,Opened in 2002,1,nan,None
+NAG2,Nangpai Gosum II,Khumbu Himal (WSW of Cho Oyu on Tibetan border),7287,23907,2,Opened in 2002,1,nan,None
+NANG,Nangamari I,Ohmi Kangri Himal (W of Chaw Peak on Tibetan border),6547,21480,1,Opened in 2003,2,2010,NANG10301
+PANB,Panbari,Peri Himal (NW of Larkya La),6905,22654,5,Opened in 2002,2,2006,PANB06301
+PHNH,Phungi Himal,Manaslu Himal (W of Manaslu),6538,21450,4,Opened in 2003,2,2017,PHNH17301
+MARI,Mariyang,Kanti Himal (SE of Kanti Himal on Tibetan border),6528,21417,7,Opened in 2003,1,nan,None
+TKRG,Takargo,Rolwaling Himal (E of Chobutse),6771,22215,2,Opened in 2003,2,2010,TKRG10101
+THUL,Thulagi,Manaslu Himal (SW of Manaslu),7059,23159,4,Opened in 2003,2,2015,THUL15301
+JOMS,Jomsom Himal,Damodar Himal (WNW of Amotsang Himal),6335,20784,5,Opened in 2002,2,2003,JOMS03301
+BAMO,Bamongo,Rolwaling Himal (E of Chekigo on Tibetan border),6406,21017,2,Opened in 2002,2,2013,BAMO13301
+CHAW,Chaw Peak,Ohmi Kangri Himal (WNW of Ohmi Kangri on Tibetan border),6404,21010,1,Opened in 2002,1,nan,None
+DING,Dingjung North,Rolwaling Himal (S of Pangbuk Ri on Tibetan border),6249,20502,2,Opened in 2014,2,1955,DING55101
+KNAG,Kang Nagchugo,Rolwaling Himal (E of Chekigo on Tibetan border),6737,22103,2,Opened in 2002,2,2008,KNAG08301
+KBON,Konabon,Dhaulagiri Himal (SE of Gurja Himal),6570,21555,6,Opened in 2003,1,nan,None
+KHAM,Khamjung,Damodar Himal (W of Saribung and Bhrikuti),6759,22175,5,Opened in 2002,2,1982,None
+KYR1,Kyungka Ri 1,Langtang Himal (NE of Shalbachum near Tibetan border),6599,21650,3,Opened in 2003,2,2017,KYR117301
+KYR2,Kyungka Ri 2,Langtang Himal (NE of Shalbachum on Tibetan border),6506,21345,3,Opened in 2003,1,nan,None
+KOJI,Kojichuwa Chuli,Kanti Himal (NNW of Kanti Himal peak on Tibetan border),6439,21125,7,Opened in 2003,2,2010,KOJI10101
+CHIV,Chhiv Himal,Damodar Himal (SW of Saribang and WSW of Bhrikuti),6650,21818,5,Opened in 2002,2,2004,CHIV04301
+LMOC,Langmoche Ri,Rolwaling Himal (N of Tesi Laptsa),6552,21496,2,Opened in 2002,2,2012,LMOC12301
+LCHA,Lachama Chuli,Changla Himal (N of Gorakh Himal on Tibetan border),6721,22051,7,Opened in 2003,2,2007,LCHA07301
+PAN1,Panpoche 1,Manaslu Himal (NE of Sama village near Tibetan border),6620,21719,4,Opened in 2003,2,2019,PAN119301
+PAN2,Panpoche 2,Manaslu Himal (NE of Sama village near Tibetan border),6504,21339,4,Opened in 2003,2,2019,PAN219301
+PHOL,Phole,Kangchenjunga Himal (W of Kumbhakarna and Sobitongie),6645,21801,1,Opened in 2002,1,nan,None
+PHUK,Phu Kang,Peri Himal (N of Cheo Himal on Tibetan border),6694,21962,5,Opened in 2003,1,nan,None
+LNGK,Langchung Khang,Jongsang Himal (NW of Langpo on Indian border),6786,22264,1,Opened in 2002,1,nan,None
+PK04,Peak 4,Khumbu Himal (SE of Baruntse),6736,22100,2,Opened in 2003,1,nan,None
+NAM2,Nampa II,Api Himal (W of Nampa),6585,21604,7,Opened in 2002,1,nan,None
+NAM3,Nampa III,Api Himal (SE of Nampa),6611,21690,7,Opened in 2002,1,nan,None
+NAMS,Nampa South,"Api Himal (S of Nampa, W of Nampa Chuli)",6130,20112,7,Opened in 2002,1,nan,None
+SOBI,Sobithongie,Kangchenjunga Himal (W of Kumbhakarna),6652,21824,1,Opened in 2002,1,nan,None
+SHER,Shershon,Makalu Himal (NE of Shershon village on Tibetan border),6432,21102,2,Opened in 2003,1,nan,None
+SWAK,Swaksa Kang,Kanti Himal (SE of Kanti Himal peak on Tibetan border),6405,21014,7,Opened in 2003,1,nan,None
+TILJ,Tilje,Peri Himal (SE of Gyajikang),6530,21424,5,Opened in 2002,1,nan,None
+TSAR,Tsartse,Mukut Himal (N of Dhampus Peak),6343,20810,6,Opened in 2002,2,2018,TSAR18301
+YAKA,Yakawa Kang,Damodar Himal (N of Thorong La),6482,21266,5,Opened in 2003,2,2010,YAKA10301
+YAUP,Yaupa,Makalu Himal (NE of Shershon village on Tibetan border),6422,21070,2,Opened in 2003,2,1989,YAUP89301
+TILK,Til Kang,Nalakankar Himal (on W Nepal/Tibetan border),6369,20896,7,Opened in 2003,2,2018,TILK18301
+YOKO,Yokopahar,Guras Himal (NNE of Nampa towards Tibetan border),6423,21073,7,Opened in 2002,1,nan,None
+SALW,Saldim West,Makalu Himal (ENE of Shershon village on Tibetan border),6388,20958,2,Opened in 2003,2,2016,SALW16301
+SAMD,Samdo,Manaslu Himal (NNE of Panpoche 1 & 2 on Tibetan border),6335,20784,4,Opened in 2003,2,2009,SAMD09302
+PURK,Purkhung,Damodar Himal (NE of Thorong La),6126,20098,5,Opened in 2002,2,2004,PURK04201
+DZAS,Dzasampatse,Khumbu Himal (S of Pasang Lhamu Chuli),6295,20653,2,None,2,2004,DZAS04301
+SWEL,Swelokhan,Manaslu Himal (N of Samdo village on Tibetan border),6180,20276,4,Opened in 2003,1,nan,None
+MUPK,Mustang Peak,Mustang Himal (S of Mustang Himal peak on Tibetan border),6229,20436,6,None,2,2001,MUPK01301
+JING,Jinjang,Damodar Himal (E of Thorong La),6111,20049,5,Opened in 2002,2,nan,None
+JOBO,Jobo Rinjang,Rolwaling Himal (SW of Nangpa La near Tibetan border),6778,22238,2,Opened in 2002,2,2009,JOBO09101
+KYAB,Kyabura,"Kangchenjunga Himal (W of Kumbhakarna, Sobitongie and Phole)",6294,20650,1,Opened in 2002,1,nan,None
+KUML,Kumlung,Damodar Himal (NE of Saribung and W of Bhrikuti),6355,20850,5,Opened in 2002,2,2008,KUML08301
+DGAR,Dhaulagari,"Raksha Urai Himal (E of Bobaye, S of Raksha Urai)",6638,21778,7,Opened in 2002,1,nan,None
+LHAY,Lhayul Peak,Api Himal (SW of Api Main),6395,20981,7,Opened in 2002,1,nan,None
+MERR,Merra,Kangchenjunga Himal (WNW of Anidesh Chuli),6334,20781,1,Opened in 2002,2,2006,MERR06301
+PBUK,Pabuk Kang,Ohmi Kangri Himal (E of Nangamari I on Tibetan border),6244,20486,1,Opened in 2003,1,nan,None
+YANK,Yanme Kang,Ohmi Kangri Himal (NW of Nangamari on Tibetan border),6206,20361,1,Opened in 2003,2,2017,YANK17301
+DANS,Danphe Shail,Palchung Himal (N of Kanjiroba on Tibetan border),6103,20023,7,Opened in 2002,2,2017,DANS17301
+GAN7,Ganesh VII,Ganesh Himal (E of Ganesh I in Tibet),6350,20833,4,None,1,nan,None
+PHAR,Pharilapcha,Khumbu Himal (SW of Gokyo Lake),6017,19741,2,Opened in 2002,2,2003,PHAR03101
+THOR,Thorong Peak,"Muktinath Himal, south of Thorong La",6144,20157,5,None,2,2007,THOR07301
+CHKA,Chamar Kang,"Mukut Himal (NW of Tsharka village, SE of Tingkyu village)",6060,19882,6,None,2,2007,CHKA07301
+NUPK,Nupche Kang,Khumbu Himal (ESE of Nangpa La on Tibetan border),6576,21575,2,Opened in 2014,2,1964,NUPK64101
+PUCH,Punchen Himal,Shringi Himal (in Tsum Valley N of Pashuwo on Tibetan border),6049,19846,4,None,1,nan,None
+KAKU,Kang Kuru,"Mustang Himal (NNE of Tsartse, WSW of Ghami village)",6344,20814,6,None,2,2008,KAKU08101
+AMPM,Amphu Middle,Khumbu Himal (NE of Amphu Laptsa),6202,20348,2,Requires permit for Amphu I,2,2008,AMPM08101
+LUGU,Lugula,Damodar Himal (E of Bhrikuti Sail on Tibetan border),6899,22635,5,Opened in 2014,2,2010,LUGU10301
+BHRS,Bhrikuti Shail,Damodar Himal (NE of Thorong La on Tibetan border),6361,20869,5,None,2,2005,BHRS05101
+MYAG,Myagdi Matha,Dhaulagiri Himal (S of Dhaulagiri IV),6273,20581,6,None,1,nan,None
+TOBS,Tobsar,Shringi Himal (ENE of Chamar),6065,19898,4,Opened in 2002,2,2017,TOBS17301
+DINS,Dingjung Ri,Rolwaling Himal (S of Pangbuk Ri on Tibetan border),6196,20328,2,Opened in 2002,2,2008,DINS08101
+DUDH,Dudh Kundali,Jagdula Lekh (S of Kanjiroba Himal),6045,19833,7,None,2,1953,DUDH53301
+KAGA,Kanta Gaton,Kanjiroba Himal (SE of Phoksumdo Tal),5910,19390,7,Opened in 2002,2,2009,KAGA09201
+KAPT,Kaptang,Kanti Himal (NW of Kanti Himal peak on Tibetan border),5965,19570,7,Opened in 2002,2,2009,KAPT09201
+ROMA,Roma,Saipal Himal (SW of Saipal),5407,17740,7,Delisted in 2014,1,nan,None
+RIPI,Ripimo Shar,Rolwaling Himal (S of Dingjung Ri on Tibetan border),6647,21808,2,Opened in 2014 (as Khang Karpo),2,1952,RIPI52101
+TSIS,Tsisima,Janak Himal (WSW of Janak Chuli),6196,20328,1,None,2,1963,TSIS63101
+TAWA,Tawa,Damodar Himal (NNE of Yakawa Kang),6110,20046,5,None,2,2010,TAWA10301
+URMA,Urkema,Langtang Himal (W of Ganja La),5890,19324,3,None,2,2007,URMA07301
+MPNW,Manapathi NW,"Dhaulagiri Himal (SSW of Dhaulagiri I, NW of Manapathi)",6384,20945,6,None,2,1977,MPNW77101
+LUNR,Lunag Ri,Rolwaling Himal (SW of Nangpa La on Tibetan border),6895,22621,2,Requires permit for Jobo Rinjang,1,nan,None
+JASG,Jasemba Goth,Khumbu Himal (NW of Pasang Lhamu Chuli),6730,22080,2,Opened in 2014,2,1964,JASG64101
+GOJN,Gojung,Kanti Himal (WNW of Kanti Himal peak on Tibetan border),6310,20702,7,None,2,2011,GOJN11301
+NAN2,Nangamari II,Ohmi Kangri Himal (S of Nangamari I),6209,20371,1,None,2,2016,NAN216301
+DRAG,Dragmorpa Ri,Langtang Himal (SW of Tilman's Col on Tibetan border),6185,20292,3,None,2,2013,DRAG13101
+SYKG,Syaokang,Ohmi Kangri Himal (SW of Ohmi Kangri near Tibetan border),5929,19452,1,None,2,2012,SYKG12301
+BIJO,Bijora Hiunchuli,Jagdula Lekh (S of Kande Huinchuli),6111,20049,7,Opened in 2014,1,nan,None
+CHUB,Chhuboche,Damodar Himal (NNE of Pisang Peak),5606,18392,5,None,2,2013,CHUB13301
+LUNW,Lunag West,Rolwaling Himal (W of Lunag I on Tibetan border),6492,21299,2,Requires permit for Jobo Rinjang,2,2013,LUNW13301
+DOMO,Domo,Jongsang Himal (SE of Jongsong on Indian border),7447,24432,1,None,2,1930,DOMO30101
+LUN2,Lunag II,Rolwaling Himal (SW of Nangpa La near Tibetan border),6812,22349,2,Requires permit for Jobo Rinjang,2,2010,LUN210301
+TRIA,Triangle Peak,Jugal Himal (NNW of Dome Blanc on Tibetan border),6484,21273,3,None,2,2013,TRIA13301
+KASI,Kasi Dalpha,Jagdula Lekh (S of Kande Huinchuli),6386,20951,7,Opened in 2014,1,nan,None
+NPHU,Narphu,"Damodar Himal (WNW of Pisang Peak, E of Chulu East Peak)",5921,19426,5,None,2,2014,NPHU14301
+POTA,Pota Himal North,Dhaulagiri Himal (NE of Putha Hiunchuli),6182,20282,6,Opened in 2014,2,2008,POTA08101
+PANN,Pangbuk North,Rolwaling Himal (NE of Pangbuk Ri on Tibetan border),6478,21253,2,None,2,2013,PANN13301
+MUST,Mustang Himal,Mustang Himal (S of Mansail on Tibetan border),6195,20325,6,Opened in 2014,2,2014,MUST14301
+MNSL,Mansail,Mustang Himal (NW of Lo Manthang on Tibetan border),6235,20456,6,Opened in 2014,2,2014,MNSL14301
+CPHU,Chhochenphu Himal,Ohmi Kangri Himal (SW of Pabuk Kang near Tibetan border),6260,20538,1,Opened in 2014,1,nan,None
+TANK,Tankya I,Kanti Himal (NE of Mariyang on Tibetan border),6305,20686,7,Opened in 2014,1,nan,None
+GORK,Gorakh Khang,Gorakh Khang (ENE of Simikot on Tibetan border),6254,20518,7,Opened in 2014,1,nan,None
+RAUN,Raungsiyar,Rolwaling Himal (N of Pimu),6224,20420,2,Opened in 2014,2,2015,RAUN15301
+LDAK,Langdak,Rolwaling Himal (N of Raungsiyar and Pimu),6220,20407,2,Opened in 2014,2,2015,LDAK15301
+TKRE,Takargo East,Rolwaling Himal (ESE of Takargo),6152,20184,2,Opened in 2014,2,2015,TKRE15301
+OMIT,Omitso Go,Rolwaling Himal (NE of Kang Nachugo on Tibetan border),6332,20774,2,Opened in 2014,1,nan,None
+CBAM,Chhopa Bamare,Rolwaling Himal (NW of Lamabagar on Tibetan border),6109,20043,2,Opened in 2014,2,2019,CBAM18401
+YALW,Yalung Kang West,Kangchenjunga Himal (W summit of Yalung Kang),8077,26499,1,Opened in 2014,1,nan,None
+KANN,Kangchenjunga North,Kangchenjunga Himal (small knob north of Main summit),7938,26043,1,Opened in 2014,1,nan,None
+KBNE,Kangbachen East,Kangchenjunga Himal (plateau SE of Kangbachen?),7780,25525,1,Opened in 2014,1,nan,None
+HERZ,Herzog Peak,Annapurna Himal (WSW of Roc Noir),7555,24787,5,Opened in 2014,2,nan,None
+GANW,Gangapurna West,Annapurna Himal (W of Gangapurna),7140,23425,5,Opened in 2014,1,nan,None
+CHMR,Chamar,Shringi Himal (SSE of Chamar),7161,23494,4,None,1,nan,None
+NGAP,Nepal Gap Peak,Kangchenjunga Himal (ENE of Gimmegela on Indian border),7007,22989,1,Opened in 2014,1,nan,None
+GAUS,Gaurishankar South,Rolwaling Himal (S of Gaurishankar),7010,22999,2,Opened in 2014,2,1979,GAUS79301
+BURK,Burke Kang,Khumbu Himal (ENE of Hungchhi on Tibetan border),6942,22776,2,Opened in 2014,2,2017,BURK17301
+HMLE,Himlung East,Peri Himal (E of Himlung Himal on Tibetan border),6932,22743,5,Opened in 2014,2,2017,HMLE17101
+YNGS,Yangra Kangri South,Ganesh Himal (NW of Ganesh III on Tibetan border),6863,22516,4,Opened in 2014,1,nan,None
+NUPL,Nup La Kang,Khumbu Himal (N of Nup La on Tibetan border),6861,22510,2,Opened in 2014,2,2018,NUPL18301
+CHUM,Chumbu,Khumbu Himal (WSW of Khangri Shar near Tibetan border),6859,22503,2,Opened in 2014,1,nan,None
+PHUG,Phu Kang Go,Peri Himal (SE of Cheo on Tibetan border),6767,22201,5,Opened in 2014,2,2011,PHUG11301
+GURA,Guras,Guras Himal (NE of Nampa on Tibetan border),6744,22126,7,Opened in 2014,1,nan,None
+THRK,Tharke Kang,Khumbu Himal (S of Nup La on Tibetan border),6710,22014,2,Opened in 2014,2,2017,THRK17301
+HUGO,Hulang Go,Peri Himal (WNW of Ratna Chuli on Tibetan border),6687,21939,5,Opened in 2014,1,nan,None
+SHNW,Shershon Northwest,Makalu Himal (NW of Shershon on Tibetan border),6682,21923,2,Opened in 2014,2,1980,SHNW80301
+AGLE,Agole East,Rolwaling Himal (E of Tengi Ragi Tau),6675,21900,2,Opened in 2014,1,nan,None
+ROLK,Rolwaling Kang,Rolwaling Himal (NNE of Tarkago),6664,21864,2,Opened in 2014,2,2016,ROLK16301
+YARW,Yarwa,Guras Himal (NW of Nampa on Tibetan border),6644,21798,7,Opened in 2014,1,nan,None
+YANG,Yangri,Jugal Himal (N of Phurbi Chhyachu on Tibetan border),6535,21440,3,Opened in 2014,1,nan,None
+LCHN,Lachama North,Changla Himal (N of Lachama Chuli on Tibetan border),6628,21745,7,Opened in 2014,1,nan,None
+CHNG,Changdi,Palchung Himal (SE of Kanti Himal peak on Tibetan border),6623,21729,7,Opened in 2014,1,nan,None
+GOLD,Goldum Peak,Jugal Himal (on Tibetan border),6632,21759,3,Opened in 2014,1,nan,None
+THOC,Thoche Go,Peri Himal (SE of Cheo Himal on Tibetan border),6602,21660,5,Opened in 2014,1,nan,None
+KCHS,Kangchung Shar,Khumbu Himal (NE of Gokyo Lake),6063,19892,2,Opened in 2014,2,1984,KCHS84301
+PHUN,Phu Kang North,Peri Himal (N of Cheo Himal on Tibetan border),6580,21588,5,Opened in 2014,1,nan,None
+PTHE,Pethangtse East,Khumbu Himal (ESE of Pethangtse on Tibetan border),6572,21562,2,Opened in 2014,2,2008,PTHE08101
+PHNG,Phungi,Peri Himal (SE of Ratna Chuli on Tibetan border),6524,21404,5,Opened in 2014,1,nan,None
+KNTE,Kanti Himal East,Kanti Himal (ENE of Kanti Himal on Tibetan border),6516,21378,7,Opened in 2014,1,nan,None
+JARK,Jarkya,Manaslu Himal (N of Larkya La on Tibetan border),6473,21237,4,Opened in 2014,1,nan,None
+MARW,Mariyang West,Kanti Himal (WSW of Mariyang on Tibetan border),6455,21178,7,Opened in 2014,1,nan,None
+MAYT,Mayonthang Kang,Kanti Himal (NW of Changdi Himal on Tibetan border),6449,21158,7,Opened in 2014,1,nan,None
+LNJU,Langju,Shringi Himal (S of Tobsar),6426,21083,4,Opened in 2014,2,2017,LNJU17301
+JYAC,Jyachhung,Byas Risi Himal (NNW of Nampa on Tibetan border),6338,20794,7,Opened in 2014,1,nan,None
+GYLA,Gyala,Manaslu Himal (NNE of Larkya La on Tibetan border),6363,20876,4,Opened in 2014,1,nan,None
+DOLM,Dolma Khang,Rolwaling Himal (SE of Gaurishankar on Tibetan border),6332,20774,2,Opened in 2014,2,1980,DOLM80101
+KAIP,Kaipuchonam,Kanti Himal (WNW of Changdi on Tibetan border),6329,20764,7,Opened in 2014,1,nan,None
+LDNG,Langdung,Rolwaling Himal (WSW of Ripimo Shar on Tibetan border),6326,20755,2,Opened in 2014,2,2017,LDNG17401
+DZA2,Dzanye II,Janak Himal (S of Danzye Peak),6318,20728,1,Opened in 2014,2,2015,DZA215301
+PAMA,Pama Himal,Shringi Himal (N of Chamar on Tibetan border),6300,20669,4,Opened in 2014,1,nan,None
+PERH,Peri Himal,Peri Himal (SE of Cheo Himal on Tibetan border),6296,20656,5,Opened in 2014,1,nan,None
+TAKL,Takla Kang,Kanti Himal (SSE of Kanti Himal peak on Tibetan border),6276,20591,7,Opened in 2014,1,nan,None
+KOGI,Kogi Khang North,Kanti Himal (ESE of Kanti Himal peak on Tibetan border),6275,20587,7,Opened in 2014,1,nan,None
+ASAJ,Asajya Tuppa,Gorakh Himal (ENE of Simikot on Tibetan border),6265,20554,7,Opened in 2014,1,nan,None
+KOJS,Kojichuwa South,Kanti Himal (SW of Kojichuwa Chuli on Tibetan border),6264,20551,7,Opened in 2014,1,nan,None
+PKAR,Pankar Himal,Manaslu Himal (ENE of Samagaon on Tibetan border),6264,20551,4,Opened in 2014,2,2018,PKAR18101
+SAUL,Saula,Manaslu Himal (ENE of Samagaon on Tibetan border),6235,20456,4,Opened in 2014,1,nan,None
+YARA,Yala Chuli,Palchung Himal (SE of Changdi on Tibetan border),6236,20459,7,Opened in 2014,1,nan,None
+RHIM,Rhimbu,Shringi Himal (S of Tobsar),6210,20374,4,Opened in 2014,1,nan,None
+SANC,Sanctuary Peak,Kanjiroba Himal (N of Kanjiroba North),6207,20364,7,Opened in 2014,1,nan,None
+LASA,Lasa,Byas Risi Himal (NNW of Nampa on Tibetan border),6189,20305,7,Opened in 2014,1,nan,None
+PERI,Peri,Langtang Himal (SE of Langtang Ri on Tibetan border),6174,20256,3,Opened in 2014,2,2016,PERI16301
+DWIJ,Dwijen Himal,Shringi Himal (NE of Ghap village on Tibetan border),6169,20240,4,Opened in 2014,1,nan,None
+JABR,Jabou Ri,Rolwaling Himal (S of Tarkago),6166,20230,2,Opened in 2014,2,2015,JABR15301
+BEDG,Beding Go,Rolwaling Himal (N of Beding village on Tibetan border),6125,20095,2,Opened in 2014,2,2015,BEDG15301
+TAKN,Takphu North,Nalakankar Himal (on W Nepal/Tibetan border),6142,20151,7,Opened in 2014,2,2016,TAKN16301
+BHUL,Bhulu Lhasa,Kanjiroba Himal (NNW of Kanjiroba North),6102,20020,7,Opened in 2014,2,1964,BHUL64301
+LNAK,Lhonak,Janak Himal (WNW of Drohmo),6070,19915,1,Opened in 2014,1,nan,None
+ROLM,Rolmi,Shringi Himal (S of Tobsar),6056,19869,4,Opened in 2014,2,2017,ROLM17301
+ACHN,Aichyn,Chandi Himal (SW of Changwathang),6055,19865,7,Opened in 2014,2,2015,ACHN15301
+ARDN,Ardang,Phupharka Himal (NW of Simikot),6034,19797,7,Opened in 2014,2,2019,ARDN19301
+LUNG,Lungchhung,Palchung Himal (NE of Kanjiroba on Tibetan border),6043,19826,7,Opened in 2014,1,nan,None
+KHNG,Khung,Palchung Himal (NE of Kanjiroba on Tibetan border),6024,19764,7,Opened in 2014,1,nan,None
+CHND,Chandi Himal,Chandi Himal (NE of Simikot on Tibetan border),6142,20151,7,Opened in 2002,1,nan,None
+KALI,Kali Himal,Khumbu Himal (NW of Baruntse),6985,22917,2,Opened in 2002,2,1983,KALI83101
+DHEC,Dhechyan Khang,Damodar Himal (ESE of Gaugiri on Tibetan border),6019,19747,5,Opened in 2014,2,2018,DHEC18101
+EKRA,Ek Rate Danda,"Khumbu Himal (in Hongku Valley, S of Chamlang)",6213,20384,2,Opened in 2002,1,nan,None
+GHYN,Ghyun Himal I,Mustang Himal (N of Ghyun Khola on Tibetan border),6110,20046,6,Opened in 2014,1,nan,None
+GORH,Gorakh Himal,Gorakh Himal (NE of Simikot on Tibetan border),6198,20335,7,Opened in 2002,1,nan,None
+HONK,Hongku,"Khumbu Himal (in Hongku Valley, W of Hongku Chuli)",6764,22192,2,Opened in 2003,2,2015,HONK15301
+KARK,Karko,Saipal Himal (WNW of Saipal),6015,19734,7,Opened in 2002,1,nan,None
+KARS,Karsang Kang,Damodar Himal (NE of Saribung),6225,20423,5,Opened in 2014,2,2008,KARS08301
+KHAY,Khayang,Manaslu Himal (E of Samdo Peak on Tibetan border),6186,20295,4,Opened in 2003,1,nan,None
+GYLZ,Gyalzen Peak,Jugal Himal (SE of Leonpo Gang on Tibetan border),6151,20180,3,None,2,2019,GYLZ19101
+LSAM,Lungsampa,Khumbu Himal (S of Nangpai Gosum II),6500,21325,2,Opened in 2002,2,2014,None
+MERS,Mera South,Khumbu Himal (SW of Mera),6064,19895,2,Opened in 2002,1,nan,None
+PASH,Pashuwo,Ganesh Himal (N of Lampo on Tibetan border),6177,20266,4,Opened in 2003,1,nan,None
+SATO,Sat Peak,Ohmi Kangri Himal (N of Sharphu range),6164,20223,1,Opened in 2002,1,nan,None
+TSKP,Tso Karpo,"Kanjiroba Himal (E of Kanjiroba, W of Tso Karpo Kang)",6518,21385,7,Opened in 2002,1,nan,None
+SPH2,Sharphu II,Ohmi Kangri Himal (WNW of Kangchenjunga),6328,20761,1,Opened in 2002,2,201,SPH218301
+SPH3,Sharphu III,Ohmi Kangri Himal (WNW of Kangchenjunga),6220,20407,1,Opened in 2002,1,nan,None
+SPH4,Sharphu IV,Ohmi Kangri Himal (WNW of Kangchenjunga),6172,20249,1,Opened in 2002,2,1962,SPH462101
+SPH5,Sharphu V,Ohmi Kangri Himal (WNW of Kangchenjunga),6158,20203,1,Opened in 2002,1,nan,None
+SPH6,Sharphu VI,Ohmi Kangri Himal (WNW of Kangchenjunga),6076,19934,1,Opened in 2002,1,nan,None
+MNSS,Mansail South,Mustang Himal (S of Mansail on Tibetan border),6248,20499,6,Opened in 2014,1,nan,None
+GDNG,Gave Ding,Changla Himal (N of Lachama Chuli on Tibetan border),6581,21591,7,Requires permit for Lachama Chuli,2,2015,GDNG15301
+NGO3,Ngojumba Kang III,Khumbu Himal (NE of Cho Oyu on Tibetan border),7681,25200,2,Opened in 2014 as Hillary Peak,1,nan,None
+KIMS,Kimshung,Langtang Himal (NE of Langtang Lirung),6781,22247,3,None,1,nan,None
+PAWR,Pawar Central,Pawar Himal (N of Larkya La),6621,21722,5,None,2,2015,PAWR15101
+NGOR,Nagoru,Peri Himal (NW of Himlung Himal),6165,20226,5,None,2,2016,NGOR16301
+SALD,Saldim,Makalu Himal (ENE of Shershon village on Tibetan border),6374,20912,2,Opened in 2003,1,nan,None
+LANY,Langtang Yubra,Langtang Himal (ENE of Langtang Lirung),6048,19843,3,Opened in 2016,1,2018,LANY18301
+LARK,Larkya Peak,Manaslu Himal (N of Manaslu North),6416,21050,4,None,2,2017,LARK17301
+NUPW,Nuptse West II,Khumbu Himal (NW of Nuptse main summit),7732,25367,2,Requires permit for Nuptse,2,nan,None
+TENE,Tengi Ragi Tau East,Rolwaling Himal (N of Tesi Laptsa),6675,21900,2,None,2,2005,TENE05301
+NILE,Nilgiri East,Annapurna-Nilgiri Himal (NNW of Annapurna I),6698,21975,5,None,2,1970,None
+PEMR,Pemthang Ri,Jugal Himal (N of Pemthang Karpo Ri on Tibetan border),6743,22123,3,None,1,nan,None
+FUTI,Futi Himal,Damodar Himal (W of Bhrikuti),6425,21079,5,None,2,2014,FUTI14101
+SANB,Sano Bhrikuti,Damodar Himal (ENE of Bhrikuti),6328,20761,2,None,2,2017,BHRS17101
+SANK,Sano Kailash,None,6452,21168,5,None,2,2019,SANK19101
+TARS,Tarke Kang Shar,Annapurna Himal (E of Glacier Dome),7069,23192,5,None,2,1981,TARS81301
+KORL,Korlang Pari Tippa,N of Lamabagar on Tibetan border,5738,18825,2,Opened in 2014,1,nan,None
+JANE,Jannu East,Kangchenjunga Himal (W of Kangchenjunga),7460,24475,1,Requires Jannu permit,1,nan,None
+YUBR,Yubra,Langtang Himal (ENE of Langtang Lirung),6264,20551,3,None,1,nan,None
